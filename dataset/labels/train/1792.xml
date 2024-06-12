@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+  <filename>1792.jpg</filename>
+  <path>D:\GithubCode\ultralytics-main\ultralytics\VOCdevkit\JPEGImages\1792.jpg</path><size>
+    <width>385</width>
+    <height>240</height>
+  </size>
+  <object>
+    <name>non-vehicle</name>
+    <bndbox>
+      <xmin>6</xmin>
+      <ymin>4</ymin>
+      <xmax>98</xmax>
+      <ymax>196</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>non-vehicle</name>
+    <bndbox>
+      <xmin>89</xmin>
+      <ymin>3</ymin>
+      <xmax>173</xmax>
+      <ymax>206</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>non-vehicle</name>
+    <bndbox>
+      <xmin>167</xmin>
+      <ymin>8</ymin>
+      <xmax>254</xmax>
+      <ymax>222</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>non-vehicle</name>
+    <bndbox>
+      <xmin>250</xmin>
+      <ymin>8</ymin>
+      <xmax>376</xmax>
+      <ymax>234</ymax>
+    </bndbox>
+  </object>
+</annotation>

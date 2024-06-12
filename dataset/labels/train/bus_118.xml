@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>bus</folder>
+	<filename>bus_118.jpg</filename>
+	<path>D:\GithubCode\ultralytics-main\ultralytics\VOCdevkit\JPEGImages\bus_118.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>633</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>83</ymin>
+			<xmax>835</xmax>
+			<ymax>570</ymax>
+		</bndbox>
+	</object>
+</annotation>

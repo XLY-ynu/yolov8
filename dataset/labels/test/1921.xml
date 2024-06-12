@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+  <filename>1921.jpg</filename>
+  <path>D:\GithubCode\ultralytics-main\ultralytics\VOCdevkit\JPEGImages\1921.jpg</path><size>
+    <width>1024</width>
+    <height>766</height>
+  </size>
+  <object>
+    <name>non-vehicle</name>
+    <bndbox>
+      <xmin>23</xmin>
+      <ymin>105</ymin>
+      <xmax>716</xmax>
+      <ymax>751</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>non-vehicle</name>
+    <bndbox>
+      <xmin>455</xmin>
+      <ymin>203</ymin>
+      <xmax>1009</xmax>
+      <ymax>725</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>non-vehicle</name>
+    <bndbox>
+      <xmin>800</xmin>
+      <ymin>11</ymin>
+      <xmax>991</xmax>
+      <ymax>165</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>taxi</folder>
+	<filename>taxi_105.jpg</filename>
+	<path>D:\GithubCode\ultralytics-main\ultralytics\VOCdevkit\JPEGImages\taxi_105.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1139</width>
+		<height>627</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>taxi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>303</xmin>
+			<ymin>283</ymin>
+			<xmax>548</xmax>
+			<ymax>508</ymax>
+		</bndbox>
+	</object>
+</annotation>

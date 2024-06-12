@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>SUV</folder>
+	<filename>SUV_75.jpg</filename>
+	<path>D:\GithubCode\ultralytics-main\ultralytics\VOCdevkit\JPEGImages\SUV_75.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1249</width>
+		<height>681</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SUV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>88</ymin>
+			<xmax>1086</xmax>
+			<ymax>557</ymax>
+		</bndbox>
+	</object>
+</annotation>

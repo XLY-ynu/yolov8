@@ -1,0 +1,10 @@
+# dataset path
+train: D:\GithubCode\ultralytics-8.0.175\dataset\images\train
+val: D:\GithubCode\ultralytics-8.0.175\dataset\images\val
+test: D:\GithubCode\ultralytics-8.0.175\dataset\images\test
+
+# number of classes
+nc: 8
+
+# class names
+names: ['non-vehicle', 'bus', 'car', 'van', 'others', 'SUV', 'taxi', 'truck']
