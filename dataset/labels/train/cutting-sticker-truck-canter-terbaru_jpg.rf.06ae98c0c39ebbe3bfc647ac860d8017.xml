@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>cutting-sticker-truck-canter-terbaru_jpg.rf.06ae98c0c39ebbe3bfc647ac860d8017.jpg</filename>
+	<path>cutting-sticker-truck-canter-terbaru_jpg.rf.06ae98c0c39ebbe3bfc647ac860d8017.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>65</xmin>
+			<xmax>620</xmax>
+			<ymin>79</ymin>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+</annotation>

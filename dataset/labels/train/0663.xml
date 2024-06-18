@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<annotation>
+  <filename>0663.jpg</filename>
+  <size>
+    <width>1200</width>
+    <height>689</height>
+  </size>
+  <object>
+    <name>non-vehicle</name>
+    <bndbox>
+      <xmin>150</xmin>
+      <ymin>202</ymin>
+      <xmax>390</xmax>
+      <ymax>651</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>non-vehicle</name>
+    <bndbox>
+      <xmin>391</xmin>
+      <ymin>206</ymin>
+      <xmax>625</xmax>
+      <ymax>612</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>non-vehicle</name>
+    <bndbox>
+      <xmin>628</xmin>
+      <ymin>212</ymin>
+      <xmax>890</xmax>
+      <ymax>610</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>non-vehicle</name>
+    <bndbox>
+      <xmin>885</xmin>
+      <ymin>227</ymin>
+      <xmax>1083</xmax>
+      <ymax>573</ymax>
+    </bndbox>
+  </object>
+</annotation>

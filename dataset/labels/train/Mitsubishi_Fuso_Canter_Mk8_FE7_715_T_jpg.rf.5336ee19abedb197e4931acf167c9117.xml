@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Mitsubishi_Fuso_Canter_Mk8_FE7_715_T_jpg.rf.5336ee19abedb197e4931acf167c9117.jpg</filename>
+	<path>Mitsubishi_Fuso_Canter_Mk8_FE7_715_T_jpg.rf.5336ee19abedb197e4931acf167c9117.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>22</xmin>
+			<xmax>397</xmax>
+			<ymin>92</ymin>
+			<ymax>327</ymax>
+		</bndbox>
+	</object>
+</annotation>

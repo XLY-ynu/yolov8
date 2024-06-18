@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>1999-Mitsubishi-Canter-4x4-Rear-Sing_jpg.rf.b4f6e218fc73c2d04c8ad65647b13817.jpg</filename>
+	<path>1999-Mitsubishi-Canter-4x4-Rear-Sing_jpg.rf.b4f6e218fc73c2d04c8ad65647b13817.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>2</xmin>
+			<xmax>384</xmax>
+			<ymin>32</ymin>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+</annotation>

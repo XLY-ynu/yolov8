@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>cutting-sticker-truck-canter-kuning--3_jpg.rf.e1e40bde6a76eaef87e62e3fc6534ac3.jpg</filename>
+	<path>cutting-sticker-truck-canter-kuning--3_jpg.rf.e1e40bde6a76eaef87e62e3fc6534ac3.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>48</xmin>
+			<xmax>361</xmax>
+			<ymin>17</ymin>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+</annotation>

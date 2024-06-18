@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>modifikasi-2Btruk-2Bdan-2Bvariasi-2B-1_jpg.rf.cdd15dd1941dec30260f8837580edd89.jpg</filename>
+	<path>modifikasi-2Btruk-2Bdan-2Bvariasi-2B-1_jpg.rf.cdd15dd1941dec30260f8837580edd89.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>2</xmin>
+			<xmax>639</xmax>
+			<ymin>27</ymin>
+			<ymax>566</ymax>
+		</bndbox>
+	</object>
+</annotation>

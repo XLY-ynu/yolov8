@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<annotation>
+  <filename>Obj365_val_obj365_val_000000306713.jpg</filename>
+  <size>
+    <width>769</width>
+    <height>512</height>
+  </size>
+  <object>
+    <name>non-vehicle</name>
+    <bndbox>
+      <xmin>412</xmin>
+      <ymin>168</ymin>
+      <xmax>652</xmax>
+      <ymax>437</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>non-vehicle</name>
+    <bndbox>
+      <xmin>245</xmin>
+      <ymin>134</ymin>
+      <xmax>444</xmax>
+      <ymax>470</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>non-vehicle</name>
+    <bndbox>
+      <xmin>89</xmin>
+      <ymin>104</ymin>
+      <xmax>242</xmax>
+      <ymax>434</ymax>
+    </bndbox>
+  </object>
+</annotation>

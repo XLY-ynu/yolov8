@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Mitsubishi-FM-10-0-Fighter-Tipper-Tr_jpg.rf.e852943d09a40327105a1fcc309a3497.jpg</filename>
+	<path>Mitsubishi-FM-10-0-Fighter-Tipper-Tr_jpg.rf.e852943d09a40327105a1fcc309a3497.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>45</xmin>
+			<xmax>378</xmax>
+			<ymin>19</ymin>
+			<ymax>413</ymax>
+		</bndbox>
+	</object>
+</annotation>

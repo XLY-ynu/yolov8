@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>847666-2012-mitsubishi-fuso-super-gr_jpg.rf.28389c99e27e45bc13d3c3810f55c405.jpg</filename>
+	<path>847666-2012-mitsubishi-fuso-super-gr_jpg.rf.28389c99e27e45bc13d3c3810f55c405.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>77</xmin>
+			<xmax>314</xmax>
+			<ymin>86</ymin>
+			<ymax>348</ymax>
+		</bndbox>
+	</object>
+</annotation>

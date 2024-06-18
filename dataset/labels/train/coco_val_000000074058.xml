@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<annotation>
+  <filename>coco_val_000000074058.jpg</filename>
+  <size>
+    <width>640</width>
+    <height>427</height>
+  </size>
+  <object>
+    <name>non-vehicle</name>
+    <bndbox>
+      <xmin>425</xmin>
+      <ymin>250</ymin>
+      <xmax>462</xmax>
+      <ymax>352</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>non-vehicle</name>
+    <bndbox>
+      <xmin>444</xmin>
+      <ymin>209</ymin>
+      <xmax>554</xmax>
+      <ymax>358</ymax>
+    </bndbox>
+  </object>
+</annotation>

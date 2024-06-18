@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>au_vehicles-8355-2_jpg.rf.5d8e79913097df5dd9872f34bd467846.jpg</filename>
+	<path>au_vehicles-8355-2_jpg.rf.5d8e79913097df5dd9872f34bd467846.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>38</xmin>
+			<xmax>406</xmax>
+			<ymin>63</ymin>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>fe-120-ps574_jpg.rf.d55401571c20a6bc31c619469f4a5ceb.jpg</filename>
+	<path>fe-120-ps574_jpg.rf.d55401571c20a6bc31c619469f4a5ceb.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>10</xmin>
+			<xmax>401</xmax>
+			<ymin>48</ymin>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+</annotation>

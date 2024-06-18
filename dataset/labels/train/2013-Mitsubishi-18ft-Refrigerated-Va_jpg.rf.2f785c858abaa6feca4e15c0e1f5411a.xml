@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>2013-Mitsubishi-18ft-Refrigerated-Va_jpg.rf.2f785c858abaa6feca4e15c0e1f5411a.jpg</filename>
+	<path>2013-Mitsubishi-18ft-Refrigerated-Va_jpg.rf.2f785c858abaa6feca4e15c0e1f5411a.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>48</xmin>
+			<xmax>402</xmax>
+			<ymin>21</ymin>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+</annotation>

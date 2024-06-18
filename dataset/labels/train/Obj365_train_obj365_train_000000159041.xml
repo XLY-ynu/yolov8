@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<annotation>
+  <filename>Obj365_train_obj365_train_000000159041.jpg</filename>
+  <size>
+    <width>512</width>
+    <height>683</height>
+  </size>
+  <object>
+    <name>non-vehicle</name>
+    <bndbox>
+      <xmin>69</xmin>
+      <ymin>352</ymin>
+      <xmax>128</xmax>
+      <ymax>406</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>non-vehicle</name>
+    <bndbox>
+      <xmin>89</xmin>
+      <ymin>318</ymin>
+      <xmax>182</xmax>
+      <ymax>423</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>non-vehicle</name>
+    <bndbox>
+      <xmin>335</xmin>
+      <ymin>310</ymin>
+      <xmax>496</xmax>
+      <ymax>436</ymax>
+    </bndbox>
+  </object>
+</annotation>

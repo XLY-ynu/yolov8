@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>mitsubishi-colt-diesel-fe-119-ps-765_jpg.rf.b21e76b2b1e543f8a70211d82fe48297.jpg</filename>
+	<path>mitsubishi-colt-diesel-fe-119-ps-765_jpg.rf.b21e76b2b1e543f8a70211d82fe48297.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>24</xmin>
+			<xmax>398</xmax>
+			<ymin>42</ymin>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+</annotation>

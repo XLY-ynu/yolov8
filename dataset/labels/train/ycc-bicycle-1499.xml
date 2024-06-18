@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<annotation>
+  <filename>ycc-bicycle-1499.jpg</filename>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+  </size>
+  <object>
+    <name>non-vehicle</name>
+    <bndbox>
+      <xmin>513</xmin>
+      <ymin>76</ymin>
+      <xmax>1178</xmax>
+      <ymax>569</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>non-vehicle</name>
+    <bndbox>
+      <xmin>1053</xmin>
+      <ymin>39</ymin>
+      <xmax>1452</xmax>
+      <ymax>333</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>non-vehicle</name>
+    <bndbox>
+      <xmin>2</xmin>
+      <ymin>176</ymin>
+      <xmax>676</xmax>
+      <ymax>1008</ymax>
+    </bndbox>
+  </object>
+</annotation>

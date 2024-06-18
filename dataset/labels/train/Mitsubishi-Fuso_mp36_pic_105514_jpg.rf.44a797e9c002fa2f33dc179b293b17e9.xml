@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Mitsubishi-Fuso_mp36_pic_105514_jpg.rf.44a797e9c002fa2f33dc179b293b17e9.jpg</filename>
+	<path>Mitsubishi-Fuso_mp36_pic_105514_jpg.rf.44a797e9c002fa2f33dc179b293b17e9.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>47</xmin>
+			<xmax>592</xmax>
+			<ymin>106</ymin>
+			<ymax>455</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>Taxi_47_jpg.rf.5c90c17951540a02a42e30cff42c50cb.jpg</filename>
+	<path>Taxi_47_jpg.rf.5c90c17951540a02a42e30cff42c50cb.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>taxi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>198</xmin>
+			<xmax>1747</xmax>
+			<ymin>114</ymin>
+			<ymax>1249</ymax>
+		</bndbox>
+	</object>
+</annotation>

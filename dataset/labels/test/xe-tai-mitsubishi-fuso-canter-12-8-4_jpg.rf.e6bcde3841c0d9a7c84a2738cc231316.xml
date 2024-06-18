@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>xe-tai-mitsubishi-fuso-canter-12-8-4_jpg.rf.e6bcde3841c0d9a7c84a2738cc231316.jpg</filename>
+	<path>xe-tai-mitsubishi-fuso-canter-12-8-4_jpg.rf.e6bcde3841c0d9a7c84a2738cc231316.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>54</xmin>
+			<xmax>402</xmax>
+			<ymin>11</ymin>
+			<ymax>401</ymax>
+		</bndbox>
+	</object>
+</annotation>

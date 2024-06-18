@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
 <annotation>
 	<folder>taxi</folder>
 	<filename>taxi_47.jpg</filename>
-	<path>D:\GithubCode\ultralytics-main\ultralytics\VOCdevkit\JPEGImages\taxi_47.jpg</path>
+	<path>F:\test for car\taxi\taxi_47.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>

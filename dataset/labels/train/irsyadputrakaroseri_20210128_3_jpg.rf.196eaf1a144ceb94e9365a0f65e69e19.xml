@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>irsyadputrakaroseri_20210128_3_jpg.rf.196eaf1a144ceb94e9365a0f65e69e19.jpg</filename>
+	<path>irsyadputrakaroseri_20210128_3_jpg.rf.196eaf1a144ceb94e9365a0f65e69e19.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>50</xmin>
+			<xmax>343</xmax>
+			<ymin>11</ymin>
+			<ymax>412</ymax>
+		</bndbox>
+	</object>
+</annotation>

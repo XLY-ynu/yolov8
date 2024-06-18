@@ -47,9 +47,9 @@ def convert_annotation(xmlpath, xmlname):
 
 if __name__ == "__main__":
     postfix = 'jpg'
-    imgpath = 'Vdata/JPEGImages'
-    xmlpath = 'Vdata/Annotations'
-    txtpath = 'Vdata/txt'
+    imgpath = 'JPEGImages'
+    xmlpath = 'Annotations'
+    txtpath = 'txt'
     
     if not os.path.exists(txtpath):
         os.makedirs(txtpath, exist_ok=True)

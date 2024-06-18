@@ -1,0 +1,40 @@
+<annotation>
+	<folder />
+	<filename>taipei-taiwan-commuter-and-tourist-waiting-for-taxi-in-front-of-ximending-the-most-popular-shopping-district-in-taipei-T75H8C_jpg.rf.86155e49c949b7a281fee76de433f493.jpg</filename>
+	<path>taipei-taiwan-commuter-and-tourist-waiting-for-taxi-in-front-of-ximending-the-most-popular-shopping-district-in-taipei-T75H8C_jpg.rf.86155e49c949b7a281fee76de433f493.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>taxi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>172</xmin>
+			<xmax>436</xmax>
+			<ymin>128</ymin>
+			<ymax>490</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>taxi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>393</xmin>
+			<xmax>641</xmax>
+			<ymin>77</ymin>
+			<ymax>608</ymax>
+		</bndbox>
+	</object>
+</annotation>

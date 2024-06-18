@@ -1,0 +1,40 @@
+<annotation>
+	<folder />
+	<filename>d4708441_jpg.rf.78ed37eb27ac88127b3dd1ff4298ff91.jpg</filename>
+	<path>d4708441_jpg.rf.78ed37eb27ac88127b3dd1ff4298ff91.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>taxi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>34</xmin>
+			<xmax>524</xmax>
+			<ymin>167</ymin>
+			<ymax>495</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>taxi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>352</xmin>
+			<xmax>641</xmax>
+			<ymin>316</ymin>
+			<ymax>502</ymax>
+		</bndbox>
+	</object>
+</annotation>

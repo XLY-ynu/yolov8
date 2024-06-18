@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Crane-Truck-Mitsubishi-Fuso-Turbo-Di_jpg.rf.fd819b891d4208720a0e1271349ce19b.jpg</filename>
+	<path>Crane-Truck-Mitsubishi-Fuso-Turbo-Di_jpg.rf.fd819b891d4208720a0e1271349ce19b.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>18</xmin>
+			<xmax>406</xmax>
+			<ymin>100</ymin>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>modifikasi-2Btruk-2Bcanter-2Bterbaru_jpg.rf.bc4b31a4ff5b9149db66149c76499ccc.jpg</filename>
+	<path>modifikasi-2Btruk-2Bcanter-2Bterbaru_jpg.rf.bc4b31a4ff5b9149db66149c76499ccc.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>30</xmin>
+			<xmax>362</xmax>
+			<ymin>64</ymin>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+</annotation>

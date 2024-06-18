@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<annotation>
+  <filename>2460.jpg</filename>
+  <size>
+    <width>400</width>
+    <height>254</height>
+  </size>
+  <object>
+    <name>non-vehicle</name>
+    <bndbox>
+      <xmin>8</xmin>
+      <ymin>75</ymin>
+      <xmax>237</xmax>
+      <ymax>236</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>non-vehicle</name>
+    <bndbox>
+      <xmin>189</xmin>
+      <ymin>93</ymin>
+      <xmax>334</xmax>
+      <ymax>198</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>non-vehicle</name>
+    <bndbox>
+      <xmin>268</xmin>
+      <ymin>69</ymin>
+      <xmax>393</xmax>
+      <ymax>172</ymax>
+    </bndbox>
+  </object>
+</annotation>

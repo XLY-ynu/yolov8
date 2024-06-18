@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>mitsubishi-2Bcanter-2Bmetalic-2Bgree_jpg.rf.df4fe42dde9476a290db6a3ba23426cf.jpg</filename>
+	<path>mitsubishi-2Bcanter-2Bmetalic-2Bgree_jpg.rf.df4fe42dde9476a290db6a3ba23426cf.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>52</xmin>
+			<xmax>416</xmax>
+			<ymin>61</ymin>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>mitsubishi-fuso-truck-dbcd4d269d_jpg.rf.2bfe73db624bb85824045e1374db60c7.jpg</filename>
+	<path>mitsubishi-fuso-truck-dbcd4d269d_jpg.rf.2bfe73db624bb85824045e1374db60c7.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>44</xmin>
+			<xmax>373</xmax>
+			<ymin>46</ymin>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+</annotation>

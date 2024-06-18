@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>thumbmitsubishi-boom-truck-159340541_jpg.rf.d2830045b34a3b26370f57296e765b73.jpg</filename>
+	<path>thumbmitsubishi-boom-truck-159340541_jpg.rf.d2830045b34a3b26370f57296e765b73.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>66</xmin>
+			<xmax>391</xmax>
+			<ymin>1</ymin>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>

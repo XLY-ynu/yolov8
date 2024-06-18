@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<annotation>
+  <filename>ia_900014948.jpg</filename>
+  <size>
+    <width>599</width>
+    <height>800</height>
+  </size>
+  <object>
+    <name>non-vehicle</name>
+    <bndbox>
+      <xmin>495</xmin>
+      <ymin>561</ymin>
+      <xmax>593</xmax>
+      <ymax>669</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>non-vehicle</name>
+    <bndbox>
+      <xmin>66</xmin>
+      <ymin>575</ymin>
+      <xmax>258</xmax>
+      <ymax>726</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>non-vehicle</name>
+    <bndbox>
+      <xmin>169</xmin>
+      <ymin>566</ymin>
+      <xmax>253</xmax>
+      <ymax>684</ymax>
+    </bndbox>
+  </object>
+</annotation>

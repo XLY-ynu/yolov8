@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <annotation>
   <filename>2060.jpg</filename>
-  <path>D:\GithubCode\ultralytics-main\ultralytics\VOCdevkit\JPEGImages\2060.jpg</path><size>
+  <size>
     <width>724</width>
     <height>1024</height>
   </size>

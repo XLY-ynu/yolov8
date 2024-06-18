@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<annotation>
+  <filename>4424.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>595</height>
+  </size>
+  <object>
+    <name>non-vehicle</name>
+    <bndbox>
+      <xmin>28</xmin>
+      <ymin>86</ymin>
+      <xmax>295</xmax>
+      <ymax>571</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>non-vehicle</name>
+    <bndbox>
+      <xmin>229</xmin>
+      <ymin>97</ymin>
+      <xmax>972</xmax>
+      <ymax>563</ymax>
+    </bndbox>
+  </object>
+</annotation>

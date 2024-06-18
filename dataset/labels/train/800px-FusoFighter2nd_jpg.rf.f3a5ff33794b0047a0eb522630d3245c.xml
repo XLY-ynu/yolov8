@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>800px-FusoFighter2nd_jpg.rf.f3a5ff33794b0047a0eb522630d3245c.jpg</filename>
+	<path>800px-FusoFighter2nd_jpg.rf.f3a5ff33794b0047a0eb522630d3245c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>6</xmin>
+			<xmax>393</xmax>
+			<ymin>62</ymin>
+			<ymax>383</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -9,8 +9,8 @@ random.seed(0)
 val_size = 0.1
 test_size = 0.2
 postfix = 'jpg'
-imgpath = 'Vdata/JPEGImages'
-xmlpath = 'Vdata/Annotations'
+imgpath = 'JPEGImages'
+xmlpath = 'Annotations'
 
 os.makedirs('images/train', exist_ok=True)
 os.makedirs('images/val', exist_ok=True)

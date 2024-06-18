@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>new-2012-mitsubishi-fuso-canter-fg-1_jpg.rf.45fcd99859f49b7180c2ca84b076d012.jpg</filename>
+	<path>new-2012-mitsubishi-fuso-canter-fg-1_jpg.rf.45fcd99859f49b7180c2ca84b076d012.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>50</xmin>
+			<xmax>379</xmax>
+			<ymin>11</ymin>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+</annotation>

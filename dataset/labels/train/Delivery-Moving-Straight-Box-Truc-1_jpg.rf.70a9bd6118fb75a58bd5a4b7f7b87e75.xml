@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Delivery-Moving-Straight-Box-Truc-1_jpg.rf.70a9bd6118fb75a58bd5a4b7f7b87e75.jpg</filename>
+	<path>Delivery-Moving-Straight-Box-Truc-1_jpg.rf.70a9bd6118fb75a58bd5a4b7f7b87e75.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>17</xmin>
+			<xmax>398</xmax>
+			<ymin>37</ymin>
+			<ymax>390</ymax>
+		</bndbox>
+	</object>
+</annotation>

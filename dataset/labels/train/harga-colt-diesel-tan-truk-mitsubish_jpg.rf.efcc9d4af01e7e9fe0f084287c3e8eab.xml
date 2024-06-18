@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>harga-colt-diesel-tan-truk-mitsubish_jpg.rf.efcc9d4af01e7e9fe0f084287c3e8eab.jpg</filename>
+	<path>harga-colt-diesel-tan-truk-mitsubish_jpg.rf.efcc9d4af01e7e9fe0f084287c3e8eab.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>22</xmin>
+			<xmax>402</xmax>
+			<ymin>40</ymin>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+</annotation>

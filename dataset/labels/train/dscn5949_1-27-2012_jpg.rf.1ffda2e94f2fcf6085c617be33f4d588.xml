@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>dscn5949_1-27-2012_jpg.rf.1ffda2e94f2fcf6085c617be33f4d588.jpg</filename>
+	<path>dscn5949_1-27-2012_jpg.rf.1ffda2e94f2fcf6085c617be33f4d588.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>17</xmin>
+			<xmax>628</xmax>
+			<ymin>10</ymin>
+			<ymax>637</ymax>
+		</bndbox>
+	</object>
+</annotation>

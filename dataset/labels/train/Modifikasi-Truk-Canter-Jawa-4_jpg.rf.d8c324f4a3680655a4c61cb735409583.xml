@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Modifikasi-Truk-Canter-Jawa-4_jpg.rf.d8c324f4a3680655a4c61cb735409583.jpg</filename>
+	<path>Modifikasi-Truk-Canter-Jawa-4_jpg.rf.d8c324f4a3680655a4c61cb735409583.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>416</xmax>
+			<ymin>1</ymin>
+			<ymax>403</ymax>
+		</bndbox>
+	</object>
+</annotation>

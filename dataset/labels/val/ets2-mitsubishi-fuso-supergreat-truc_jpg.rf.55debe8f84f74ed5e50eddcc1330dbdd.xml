@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>ets2-mitsubishi-fuso-supergreat-truc_jpg.rf.55debe8f84f74ed5e50eddcc1330dbdd.jpg</filename>
+	<path>ets2-mitsubishi-fuso-supergreat-truc_jpg.rf.55debe8f84f74ed5e50eddcc1330dbdd.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>49</xmin>
+			<xmax>550</xmax>
+			<ymin>63</ymin>
+			<ymax>589</ymax>
+		</bndbox>
+	</object>
+</annotation>

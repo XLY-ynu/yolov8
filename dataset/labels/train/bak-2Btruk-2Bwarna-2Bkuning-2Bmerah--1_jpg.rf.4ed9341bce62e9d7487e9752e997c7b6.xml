@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>bak-2Btruk-2Bwarna-2Bkuning-2Bmerah--1_jpg.rf.4ed9341bce62e9d7487e9752e997c7b6.jpg</filename>
+	<path>bak-2Btruk-2Bwarna-2Bkuning-2Bmerah--1_jpg.rf.4ed9341bce62e9d7487e9752e997c7b6.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>85</xmin>
+			<xmax>364</xmax>
+			<ymin>20</ymin>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+</annotation>

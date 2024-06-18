@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<annotation>
+  <filename>coco_train_000000323116.jpg</filename>
+  <size>
+    <width>640</width>
+    <height>423</height>
+  </size>
+  <object>
+    <name>non-vehicle</name>
+    <bndbox>
+      <xmin>335</xmin>
+      <ymin>203</ymin>
+      <xmax>377</xmax>
+      <ymax>224</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>non-vehicle</name>
+    <bndbox>
+      <xmin>450</xmin>
+      <ymin>195</ymin>
+      <xmax>545</xmax>
+      <ymax>337</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>non-vehicle</name>
+    <bndbox>
+      <xmin>406</xmin>
+      <ymin>209</ymin>
+      <xmax>457</xmax>
+      <ymax>287</ymax>
+    </bndbox>
+  </object>
+</annotation>

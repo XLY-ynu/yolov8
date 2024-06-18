@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>1998-Mitsubishi-Fuso-Fighter-Dump-Tr_jpg.rf.21b7773d61e3bbd16cf5d60c73b0f954.jpg</filename>
+	<path>1998-Mitsubishi-Fuso-Fighter-Dump-Tr_jpg.rf.21b7773d61e3bbd16cf5d60c73b0f954.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>78</xmin>
+			<xmax>310</xmax>
+			<ymin>62</ymin>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<annotation>
+  <filename>ebike-10-14-0146.jpg</filename>
+  <size>
+    <width>800</width>
+    <height>533</height>
+  </size>
+  <object>
+    <name>non-vehicle</name>
+    <bndbox>
+      <xmin>1</xmin>
+      <ymin>220</ymin>
+      <xmax>294</xmax>
+      <ymax>521</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>non-vehicle</name>
+    <bndbox>
+      <xmin>602</xmin>
+      <ymin>231</ymin>
+      <xmax>747</xmax>
+      <ymax>505</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>non-vehicle</name>
+    <bndbox>
+      <xmin>339</xmin>
+      <ymin>214</ymin>
+      <xmax>566</xmax>
+      <ymax>531</ymax>
+    </bndbox>
+  </object>
+</annotation>
